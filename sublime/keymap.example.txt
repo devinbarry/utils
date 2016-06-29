@@ -1,0 +1,5 @@
+[
+    { "keys": ["ctrl+shift+j"], "command": "pretty_json" },
+    { "keys": ["ctrl+shift+u"], "command": "compact_json" },
+    { "keys": ["ctrl+shift+x"], "command": "pretty_xml" }
+]
